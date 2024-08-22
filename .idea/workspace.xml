@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ebf7a00-6f4b-449b-8efa-a6f442c13ff0" name="Changes" comment="java methods">
+      <change afterPath="$PROJECT_DIR$/article.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exceptions/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exceptions/CarIsBrokenException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exceptions/CheckedExceptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exceptions/FinallyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exceptions/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/input_output/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/input_output/ConsoleInputExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/input_output/FileInputExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/input_output/FileOutputExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/input_output/OutputExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/input_output/TryWihResourcesExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exceptions/ExceptionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exceptions/ExceptionExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,19 +37,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "demossml"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;demossml&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/demossml/java_core.git",
-    "accountId": "00128e30-81e8-42f5-a2ca-46eee8daffcf"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/demossml/java_core.git&quot;,
+    &quot;accountId&quot;: &quot;00128e30-81e8-42f5-a2ca-46eee8daffcf&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -50,11 +64,16 @@
   "keyToString": {
     "Application.Array.executor": "Run",
     "Application.BooleanLogec.executor": "Run",
+    "Application.CheckedExceptionExample.executor": "Run",
     "Application.Conditions.executor": "Run",
+    "Application.ConsoleInputExample.executor": "Run",
     "Application.Continue.executor": "Run",
     "Application.DoWhile.executor": "Run",
     "Application.Example.executor": "Run",
     "Application.ExceptionExample.executor": "Run",
+    "Application.FileInputExample.executor": "Run",
+    "Application.FileOutputExample.executor": "Run",
+    "Application.FinallyExample.executor": "Run",
     "Application.ForEach.executor": "Run",
     "Application.ForI.executor": "Run",
     "Application.HashcodeExample.executor": "Run",
@@ -62,6 +81,7 @@
     "Application.MathOperation.executor": "Run",
     "Application.MultiArray.executor": "Run",
     "Application.MyString.executor": "Run",
+    "Application.OutputExample.executor": "Run",
     "Application.Practice.executor": "Run",
     "Application.Primitives.executor": "Run",
     "Application.RecordExample.executor": "Run",
@@ -73,6 +93,7 @@
     "Application.Task.executor": "Run",
     "Application.Ternary.executor": "Run",
     "Application.TextBlock.executor": "Run",
+    "Application.TryWihResourcesExample.executor": "Run",
     "Application.Variables.executor": "Run",
     "Application.WhileExample.executor": "Run",
     "Application.Zoo.executor": "Run",
@@ -111,13 +132,13 @@
       <recent name="oop.inheritance.lession9.interfaces.dependency_inversion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.oop.anonymous_classes.Runner">
-    <configuration name="ExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.exceptions.ExceptionExample" />
+  <component name="RunManager" selected="Application.FileOutputExample">
+    <configuration name="ConsoleInputExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.input_output.ConsoleInputExample" />
       <module name="java_core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.exceptions.*" />
+          <option name="PATTERN" value="oop.input_output.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecordExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.record.RecordExample" />
+    <configuration name="FileInputExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.input_output.FileInputExample" />
       <module name="java_core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.record.*" />
+          <option name="PATTERN" value="oop.input_output.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.anonymous_classes.Runner" />
+    <configuration name="FileOutputExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.input_output.FileOutputExample" />
       <module name="java_core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.anonymous_classes.*" />
+          <option name="PATTERN" value="oop.input_output.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oop.anonymous_classes.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.anonymous_classes.Runner" />
+    <configuration name="OutputExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.input_output.OutputExample" />
       <module name="java_core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.anonymous_classes.*" />
+          <option name="PATTERN" value="oop.input_output.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oop.nested_classes.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.nested_classes.Runner" />
+    <configuration name="TryWihResourcesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.input_output.TryWihResourcesExample" />
       <module name="java_core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.nested_classes.*" />
+          <option name="PATTERN" value="oop.input_output.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.oop.anonymous_classes.Runner" />
-        <item itemvalue="Application.ExceptionExample" />
-        <item itemvalue="Application.RecordExample" />
-        <item itemvalue="Application.oop.nested_classes.Runner" />
-        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.FileOutputExample" />
+        <item itemvalue="Application.OutputExample" />
+        <item itemvalue="Application.TryWihResourcesExample" />
+        <item itemvalue="Application.FileInputExample" />
+        <item itemvalue="Application.ConsoleInputExample" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724325581648</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="java methods">
+      <option name="closed" value="true" />
+      <created>1724326378813</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724326378813</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
