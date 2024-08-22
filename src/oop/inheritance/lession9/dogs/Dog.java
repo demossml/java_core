@@ -1,9 +1,14 @@
-package oop.inheritance.lession9;
+package oop.inheritance.lession9.dogs;
 
-public abstract class Dog extends Alive{
+import oop.inheritance.lession9.Alive;
 
-    public int countLegs = 4;
+public abstract class Dog extends Alive {
+
+    protected final int  countLegs = 4;
+
     public int countTeeth;
+
+    public static final String LATIN_NAME = "Canis familiaris";
 
     public Dog(int countTeeth) {
         this.countTeeth = countTeeth;
@@ -15,6 +20,10 @@ public abstract class Dog extends Alive{
 
     public void beAngry(){
         System.out.println("Собака рычит");
+    }
+
+    public void eat(){
+        System.out.println("Собака ест");
     }
 
     public abstract void run();

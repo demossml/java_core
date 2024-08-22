@@ -1,5 +1,9 @@
 package oop.inheritance.lession9;
 
+import oop.inheritance.lession9.dogs.Poodle;
+import oop.inheritance.lession9.dogs.Shepherd;
+import oop.inheritance.lession9.dogs.Terrier;
+
 public class Runner {
     public static void main(String[] args) {
 
@@ -21,7 +25,7 @@ public class Runner {
         System.out.println(terrier.countTeeth);
 
 
-        System.out.println(shepherd.countLegs);
+//        System.out.println(shepherd.countLegs);
 
 
     }

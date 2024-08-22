@@ -1,4 +1,4 @@
-package lesson4;
+package start.lesson4;
 
 public class Switch {
     public static void main(String[] args) {

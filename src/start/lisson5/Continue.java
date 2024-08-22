@@ -1,4 +1,4 @@
-package lisson5;
+package start.lisson5;
 
 public class Continue {
     public static void main(String[] args) {

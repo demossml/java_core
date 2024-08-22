@@ -1,6 +1,6 @@
-package oop.inheritance.lession9;
+package oop.inheritance.lession9.dogs;
 
-public class Poodle extends Dog{
+public class Poodle extends Dog {
 
     public Poodle(){
         super(36);

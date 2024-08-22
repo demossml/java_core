@@ -1,6 +1,4 @@
-package lisson5;
-
-import java.util.Arrays;
+package start.lisson5;
 
 public class Array {
     public static void main(String[] args) {

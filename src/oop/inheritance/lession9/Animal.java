@@ -1,4 +1,6 @@
 package oop.inheritance.lession9;
 
-public class Animal {
+public abstract class Animal {
+
+    public abstract void eat();
 }

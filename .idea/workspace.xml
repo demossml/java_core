@@ -1,18 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ebf7a00-6f4b-449b-8efa-a6f442c13ff0" name="Changes" comment="" />
+    <list default="true" id="7ebf7a00-6f4b-449b-8efa-a6f442c13ff0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/anonymous_classes/Alive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/anonymous_classes/Alive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/anonymous_classes/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/anonymous_classes/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/anonymous_classes/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/anonymous_classes/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/class_object/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/class_object/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/class_object/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/class_object/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/class_object/equals/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/class_object/equals/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/class_object/equals/ChildrenGarden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/class_object/equals/ChildrenGarden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/class_object/equals/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/class_object/equals/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/class_object/equals/clone/Agent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/class_object/equals/clone/Agent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/class_object/equals/clone/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/class_object/equals/clone/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/class_object/equals_hashcode_practise/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/class_object/equals_hashcode_practise/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/class_object/equals_hashcode_practise/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/class_object/equals_hashcode_practise/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/class_object/hashcode/ChildrenGardenWithGroups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/class_object/hashcode/ChildrenGardenWithGroups.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/class_object/hashcode/HashcodeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/class_object/hashcode/HashcodeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/enumeration/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/enumeration/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/enumeration/Country2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/enumeration/Country2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/enumeration/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/enumeration/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/enumeration/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/enumeration/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exceptions/ExceptionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exceptions/ExceptionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/Alive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/Alive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/dogs/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/dogs/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/dogs/Poodle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/dogs/Poodle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/dogs/Shepherd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/dogs/Shepherd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/dogs/Terrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/dogs/Terrier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/basics/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/basics/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/basics/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/basics/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/basics/Moveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/basics/Moveable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/basics/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/basics/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/dependency_inversion/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/dependency_inversion/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/dependency_inversion/DoqZoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/dependency_inversion/DoqZoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/dependency_inversion/Poodle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/dependency_inversion/Poodle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/dependency_inversion/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/dependency_inversion/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/dependency_inversion/Shepherd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/dependency_inversion/Shepherd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/dependency_inversion/Terier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/dependency_inversion/Terier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/functional_interface/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/functional_interface/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/functional_interface/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/functional_interface/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/functional_interface/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/functional_interface/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/functional_interface/Sounding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/functional_interface/Sounding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/instanseof_ex/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/instanseof_ex/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/instanseof_ex/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/instanseof_ex/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/instanseof_ex/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/instanseof_ex/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/instanseof_ex/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/instanseof_ex/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/interface_inheritance/Alive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/interface_inheritance/Alive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/interface_inheritance/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/interface_inheritance/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/interface_inheritance/Eatable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/interface_inheritance/Eatable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/interface_inheritance/Moveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/interface_inheritance/Moveable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/interface_maker/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/interface_maker/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/interface_maker/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/interface_maker/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/interface_segregation/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/interface_segregation/Airplane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/interface_segregation/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/interface_segregation/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/interface_segregation/Drivable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/interface_segregation/Drivable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/interface_segregation/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/interface_segregation/Flyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/task/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/task/Airplane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/task/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/task/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/task/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/task/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/task/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/task/Flyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/task/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/task/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/task/Swimable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/inheritance/lession9/interfaces/task/Swimable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/lessio7/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/lessio7/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/lessio7/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/lessio7/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/lessio7/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/lessio7/Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/lessio7/RecursionEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/lessio7/RecursionEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/lessio7/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/lessio7/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/lessio7/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/lessio7/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/lessio7/book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/lessio7/book/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/lessio7/practice/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/lessio7/practice/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/lessio7/practice/Garage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/lessio7/practice/Garage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/lessio7/practice/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/lessio7/practice/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/lessio7/zoo/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/lessio7/zoo/Zoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/nested_classes/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/nested_classes/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/nested_classes/PassportType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/nested_classes/PassportType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/nested_classes/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/nested_classes/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/polymorphism/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/polymorphism/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/polymorphism/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/polymorphism/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/polymorphism/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/polymorphism/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/polymorphism/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/polymorphism/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/polymorphism/differens_interface_abstract_class/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/polymorphism/differens_interface_abstract_class/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/polymorphism/differens_interface_abstract_class/Boat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/polymorphism/differens_interface_abstract_class/Boat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/polymorphism/differens_interface_abstract_class/IvanDyrak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/polymorphism/differens_interface_abstract_class/IvanDyrak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/polymorphism/differens_interface_abstract_class/Swan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/polymorphism/differens_interface_abstract_class/Swan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/polymorphism/differens_interface_abstract_class/Swimmable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/polymorphism/differens_interface_abstract_class/Swimmable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/primitives_wrappers/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/primitives_wrappers/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/record/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/record/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/record/NewHumanRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/record/NewHumanRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/record/RecordExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/record/RecordExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start/lession6/MyString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lession6/MyString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start/lession6/StringFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lession6/StringFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start/lession6/StringMithod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lession6/StringMithod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start/lession6/TextBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lession6/TextBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start/lesson1/english/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lesson1/english/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start/lesson1/russian/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lesson1/russian/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start/lesson2/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lesson2/Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start/lesson3/MathOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lesson3/MathOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start/lesson3/Primitives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lesson3/Primitives.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start/lesson4/BooleanLogec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lesson4/BooleanLogec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start/lesson4/Conditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lesson4/Conditions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start/lesson4/Scope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lesson4/Scope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start/lesson4/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lesson4/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start/lesson4/Ternary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lesson4/Ternary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start/lisson5/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lisson5/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start/lisson5/Continue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lisson5/Continue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start/lisson5/DoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lisson5/DoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start/lisson5/ForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lisson5/ForEach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start/lisson5/ForI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lisson5/ForI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start/lisson5/MultiArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lisson5/MultiArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start/lisson5/WhileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/lisson5/WhileExample.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2knVfOdYCBiSv33L6xTeEIhm1T3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,12 +144,145 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Array.executor": "Run",
+    "Application.BooleanLogec.executor": "Run",
+    "Application.Conditions.executor": "Run",
+    "Application.Continue.executor": "Run",
+    "Application.DoWhile.executor": "Run",
+    "Application.Example.executor": "Run",
+    "Application.ExceptionExample.executor": "Run",
+    "Application.ForEach.executor": "Run",
+    "Application.ForI.executor": "Run",
+    "Application.HashcodeExample.executor": "Run",
+    "Application.Hello.executor": "Run",
+    "Application.MathOperation.executor": "Run",
+    "Application.MultiArray.executor": "Run",
+    "Application.MyString.executor": "Run",
+    "Application.Practice.executor": "Run",
+    "Application.Primitives.executor": "Run",
+    "Application.RecordExample.executor": "Run",
+    "Application.Runner.executor": "Run",
+    "Application.Scope.executor": "Run",
+    "Application.StringFormat.executor": "Run",
+    "Application.StringMithod.executor": "Run",
+    "Application.Switch.executor": "Run",
+    "Application.Task.executor": "Run",
+    "Application.Ternary.executor": "Run",
+    "Application.TextBlock.executor": "Run",
+    "Application.Variables.executor": "Run",
+    "Application.WhileExample.executor": "Run",
+    "Application.Zoo.executor": "Run",
+    "Application.aboutMain.executor": "Run",
+    "Application.lesson1.english.Hello.executor": "Run",
+    "Application.oop.anonymous_classes.Runner (1).executor": "Run",
+    "Application.oop.anonymous_classes.Runner.executor": "Run",
+    "Application.oop.class_object.Runner.executor": "Run",
+    "Application.oop.enumeration.Example.executor": "Run",
+    "Application.oop.enumeration.Runner.executor": "Run",
+    "Application.oop.inheritance.lession9.Runner.executor": "Run",
+    "Application.oop.inheritance.lession9.interfaces.dependency_inversion.Runner.executor": "Run",
+    "Application.oop.inheritance.lession9.interfaces.functional_interface.Runner.executor": "Run",
+    "Application.oop.inheritance.lession9.interfaces.interface_maker.Runner.executor": "Run",
+    "Application.oop.inheritance.lession9.interfaces.task.Runner.executor": "Run",
+    "Application.oop.lessio8.Runner.executor": "Run",
+    "Application.oop.nested_classes.Runner.executor": "Run",
+    "Application.oop.polymorphism.Runner.executor": "Run",
+    "Application.oop.polymorphism.interfaces.basics.Runner.executor": "Run",
+    "Application.oop.primitives_wrappers.Runner.executor": "Run",
+    "Application.russian.Hello.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/dmitrijsuvalov/Documents/java_core/src/Main.java"
+    "onboarding.tips.debug.path": "/Users/dmitrijsuvalov/Documents/java_core/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="oop.nested_classes" />
+      <recent name="oop.anonymous_classes" />
+      <recent name="oop.inheritance.lession9.interfaces.instanseof_ex" />
+      <recent name="oop.inheritance.lession9.interfaces.functional_interface" />
+      <recent name="oop.inheritance.lession9.interfaces.dependency_inversion" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ExceptionExample">
+    <configuration name="ExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.exceptions.ExceptionExample" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecordExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.record.RecordExample" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.record.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.anonymous_classes.Runner" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.anonymous_classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oop.anonymous_classes.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.anonymous_classes.Runner" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.anonymous_classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oop.nested_classes.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.nested_classes.Runner" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.nested_classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExceptionExample" />
+        <item itemvalue="Application.RecordExample" />
+        <item itemvalue="Application.oop.nested_classes.Runner" />
+        <item itemvalue="Application.oop.anonymous_classes.Runner" />
+        <item itemvalue="Application.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,16 +293,5 @@
       <updated>1723919429483</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

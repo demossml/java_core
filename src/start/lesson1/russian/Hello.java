@@ -1,4 +1,4 @@
-package lesson1.russian;
+package start.lesson1.russian;
 
 public class  Hello {
     public static void main(String[] args) {

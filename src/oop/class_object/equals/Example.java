@@ -1,6 +1,4 @@
-package oop.class_object.equals_and_hashcode;
-
-import java.util.Arrays;
+package oop.class_object.equals;
 
 public class Example {
     public static void main(String[] args) {

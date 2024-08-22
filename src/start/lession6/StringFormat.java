@@ -1,4 +1,4 @@
-package lession6;
+package start.lession6;
 
 public class StringFormat {
     public static void main(String[] args) {

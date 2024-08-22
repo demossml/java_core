@@ -1,4 +1,4 @@
 package oop.inheritance.lession9.interfaces.dependency_inversion;
 
-public class Poodle {
+public class Poodle extends Dog {
 }

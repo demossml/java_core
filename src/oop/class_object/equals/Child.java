@@ -1,4 +1,4 @@
-package oop.class_object.equals_and_hashcode;
+package oop.class_object.equals;
 
 public class Child {
     private String name;
@@ -19,7 +19,13 @@ public class Child {
     }
 
     @Override
+    public int hashCode() {
+        return this.getYear() % 2;
+    }
+
+    @Override
     public boolean equals(Object obj) {
+        System.out.println("Началось сравнение с " + this.getName());
         if (obj == null ) {
             return false;
         }
@@ -27,5 +33,7 @@ public class Child {
             return this.getName().equals(child2.getName()) && this.getYear() == child2.getYear();
         }
         return false;
+
+
     }
 }

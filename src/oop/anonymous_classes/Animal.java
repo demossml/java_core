@@ -1,4 +1,7 @@
 package oop.anonymous_classes;
 
-public class Animal {
+public abstract class Animal {
+    public int countLegs =4;
+
+    public abstract void eat();
 }

@@ -1,6 +1,6 @@
-package oop.inheritance.lession9;
+package oop.inheritance.lession9.dogs;
 
-public class Shepherd extends Dog {
+public final class Shepherd extends Dog {
 
     public Shepherd() {
         super(28);
@@ -28,4 +28,6 @@ public class Shepherd extends Dog {
         super.beAngry();
         System.out.println("Овчарка успокоилась");
     }
+
+
 }

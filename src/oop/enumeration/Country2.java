@@ -1,11 +1,11 @@
 package oop.enumeration;
 
-public class Country {
+public class Country2 {
    private String name;
    private long peopleCount;
    private String language;
 
-    public Country(String name, long peopleCount, String language) {
+    public Country2(String name, long peopleCount, String language) {
         this.name = name;
         this.peopleCount = peopleCount;
         this.language = language;

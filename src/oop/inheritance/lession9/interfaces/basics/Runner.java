@@ -1,4 +1,4 @@
-package oop.polymorphism.interfaces.basics;
+package oop.inheritance.lession9.interfaces.basics;
 
 public class Runner {
     public static void main(String[] args) {

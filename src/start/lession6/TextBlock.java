@@ -1,4 +1,4 @@
-package lession6;
+package start.lession6;
 
 public class TextBlock {
     public static void main(String[] args) {
